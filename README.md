@@ -2,7 +2,7 @@
 
 **IMPORTANT: Make sure to collect ping and traceroute results before enabling MON**
 
-1.	Enable HCX MON do the Network Extension.  
+1.	Enable HCX MON on the Network Extension.  
  ![image](https://user-images.githubusercontent.com/97964083/213808925-d9172181-2f69-407b-bbd9-146d6e7f2c42.png)
 
 
